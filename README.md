@@ -6,4 +6,4 @@ Projects:
 
 [To do list](https://github.com/KrzysztofBojarczuk/to-do-list/)
 
-[Blog](https://github.com/KrzysztofBojarczuk/blog/)
+[Coffee Ap]([https://github.com/KrzysztofBojarczuk/blog/](https://github.com/KrzysztofBojarczuk/CoffeeApp))
