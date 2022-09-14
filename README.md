@@ -6,4 +6,3 @@ Projects:
 
 [To do list](https://github.com/KrzysztofBojarczuk/to-do-list/)
 
-[Coffee App](https://github.com/KrzysztofBojarczuk/CoffeeApp/)
