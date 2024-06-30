@@ -1,6 +1,6 @@
 My name is Christopher.
 
-I’m currently working on:
+My small projects with Asp.net core and Angular:
 
  [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + Angular + Angular PRIMENG
 
