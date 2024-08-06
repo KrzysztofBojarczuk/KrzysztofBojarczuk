@@ -11,15 +11,15 @@ My small projects with Asp.net core and Angular:
 
  [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + Angular + Angular PRIMENG
 
-and:
-
  [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material 
+
+and:
 
  [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + vue + vuetify (beginner)
 
 All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
 
- <h3>My LinkedIn:
+ <h6>My LinkedIn:
     <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
         <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" />
     </a>
