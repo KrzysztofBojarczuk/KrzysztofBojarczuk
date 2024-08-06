@@ -1,4 +1,4 @@
-<h2>I'm Christopher/Krzysztof Bojarczuk. Junior .net developer. I'm interested in development and budling web application.</h2>
+<h2>I'm Christopher/Krzysztof Bojarczuk - Junior .net developer. I'm interested in development and budling web application.</h2>
 
 <h3> My tech stack: </h1>
 <p align="left">
