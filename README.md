@@ -1,4 +1,4 @@
-<h2>I'm Christopher/Krzysztof Bojarczuk. Junior .net developer. I'm interested in development and budling webb appliacation.</h2>
+<h2>I'm Christopher/Krzysztof Bojarczuk. Junior .net developer. I'm interested in development and budling web application.</h2>
 
 <h3> My tech stack: </h1>
 <p align="left">
@@ -15,6 +15,11 @@ and:
 
  [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material 
 
- [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi +  <img src="https://skillicons.dev/icons?i=vue,vuetify"/> (beginner)
+ [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + vue + vuetify (beginner)
 
 All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
+
+ <h3>My LinkedIn:</h3>
+    <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
+        <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" />
+    </a>
