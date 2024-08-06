@@ -3,7 +3,7 @@ I'm Christopher/Krzysztof Bojarczuk. Junior .net developer. I'm interested in de
 <h3> My tech stack: </h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,angular,ts,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,angular,ts,dotnet,visualstudio,vscode" />
  </a>
 </p>
 
