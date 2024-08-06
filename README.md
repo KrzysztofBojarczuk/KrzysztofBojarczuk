@@ -1,6 +1,6 @@
 I'm Christopher/Krzysztof Bojarczuk. Junior .net developer. I'm interested in development and budling webb appliacation.
 
-<h2> My tech stack: </h1>
+<h3> My tech stack: </h1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,angular,ts,visualstudio,vscode" />
