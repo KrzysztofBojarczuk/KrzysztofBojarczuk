@@ -14,6 +14,6 @@ All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=r
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,Asp.net,angular,ts,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,angular,ts,visualstudio,vscode" />
  </a>
 </p>
