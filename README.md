@@ -19,8 +19,8 @@ and:
 
 All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
 
- <h5>My LinkedIn:
+ <h1>My LinkedIn:
     <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
         <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" />
     </a>
-</h3>
+</h1>
