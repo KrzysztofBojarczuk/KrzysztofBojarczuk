@@ -11,3 +11,9 @@ and:
  [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + Vue (beginner)
 
 All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c#,.net,Asp.net,Angular,Typescript" />
+  </a>
+</p>
