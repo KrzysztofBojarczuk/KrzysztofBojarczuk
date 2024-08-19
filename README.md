@@ -25,5 +25,5 @@ All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=r
     </a>
 </h1>
  <h1>Email:
-   krzysztofbojarczuk@wp.pl
+ <a href="mailto:krzysztofbojarczuk@wp.pl">krzysztofbojarczuk@wp.pl</a>
 </h1>
