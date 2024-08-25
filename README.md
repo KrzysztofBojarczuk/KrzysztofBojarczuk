@@ -24,6 +24,6 @@ All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=r
 </h4>
  <h4>My LinkedIn:
     <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
-       <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" width="40" />
+       <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" width="25" />
     </a>
 </h4>
