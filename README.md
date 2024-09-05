@@ -19,11 +19,11 @@ and:
 
 All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
 <h3>Contact Me:</h3>
- <h2>Email:
+ <h3>Email:
  <a href="mailto:krzysztofbojarczuk@wp.pl">krzysztofbojarczuk@wp.pl</a>
-</h2>
- <h2>My LinkedIn:
+</h3>
+ <h3>My LinkedIn:
     <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
        <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" width="25" />
     </a>
-</h2>
+</h3>
