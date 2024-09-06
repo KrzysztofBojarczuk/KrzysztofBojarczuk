@@ -22,8 +22,8 @@ All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=r
  <h3>Email:
  <a href="mailto:krzysztofbojarczuk@wp.pl">krzysztofbojarczuk@wp.pl</a>
 </h3>
- <h4>My LinkedIn:
+ <h3>My LinkedIn:
     <a href="https://www.linkedin.com/in/krzysztof-bojarczuk-b23872b9/">
        <img class="linkedin-logo" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" width="25" />
     </a>
-</h4>
+</h3>
