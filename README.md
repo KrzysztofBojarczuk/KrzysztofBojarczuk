@@ -3,7 +3,7 @@
 <h3> My tech stack: </h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,visualstudio,vscode,html,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,ts,angular,vscode,html,git" />
  </a>
 </p>
 
