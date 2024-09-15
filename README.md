@@ -17,7 +17,7 @@ and:
 
  [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + vue + vuetify (beginner)
 
-All of my projects are available at: https://github.com/KrzysztofBojarczuk?tab=repositories
+All of my projects are available on my GitHub repository: Krzysztof Bojarczuk's GitHub.
 <h3>Contact Me:</h3>
  <h3>Email:
  <a href="mailto:krzysztofbojarczuk@wp.pl">krzysztofbojarczuk@wp.pl</a>
