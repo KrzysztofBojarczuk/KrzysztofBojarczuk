@@ -15,7 +15,7 @@ My small projects with Asp.net core and Angular:
 
 and:
 
-
+ [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + vue + vuetify (beginner)
 
 All of my projects are available on my GitHub repository: [Krzysztof Bojarczuk's repository](https://github.com/KrzysztofBojarczuk?tab=repositories)
 <h3>Contact Me:</h3>
