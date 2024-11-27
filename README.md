@@ -9,11 +9,12 @@
 
 My small projects with Asp.net core and Angular:
 
- [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material
 
  [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + Angular + Angular PRIMENG
 
  [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material 
+
+ [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material
 
 and:
 
