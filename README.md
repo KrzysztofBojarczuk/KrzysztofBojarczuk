@@ -12,7 +12,7 @@ My small projects with Asp.net core and Angular:
 
  [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + ASP.NET Identity + Angular + Angular PRIMENG 
 
- [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material (typical CRUD to learning)
+ [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of login and register)
 
  [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material 
 
