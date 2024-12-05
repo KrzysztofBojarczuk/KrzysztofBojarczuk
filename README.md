@@ -16,10 +16,6 @@ My small projects with Asp.net core and Angular:
 
  [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material 
 
-and:
-
- [School Managment System](https://github.com/KrzysztofBojarczuk/SchoolManagmentSystem) Asp.net Webapi + vue + vuetify (beginner).
-
 All of my projects are available on my GitHub repository: [Krzysztof Bojarczuk's repository](https://github.com/KrzysztofBojarczuk?tab=repositories)
 <h3>Contact Me:</h3>
  <h3>Email:
