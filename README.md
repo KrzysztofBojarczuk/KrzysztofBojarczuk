@@ -9,8 +9,7 @@
 
 My small projects with Asp.net core and Angular:
 
-
-[Enterprise management System] (https://github.com/KrzysztofBojarczuk/EMS)  Clean Architecture + CQRS + Asp.net Webapi + ASP.NET Identity + JWT Token + React + Prime React (after login user has acces to his resources)
+ [Enterprise management System](https://github.com/KrzysztofBojarczuk/EMS)  Clean Architecture + CQRS + Asp.net Webapi + ASP.NET Identity + JWT Token + React + Prime React (after login user has acces to his resources)
 
  [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + ASP.NET Identity + Angular + Angular PRIMENG 
 
