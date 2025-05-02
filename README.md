@@ -17,7 +17,7 @@ My small projects with Asp.net core and Angular:
 
  [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material 
 
-All of my projects are available on my GitHub repository: [Krzysztof Bojarczuk's repository](https://github.com/KrzysztofBojarczuk?tab=repositories)
+//All of my projects are available on my GitHub repository: [Krzysztof Bojarczuk's repository](https://github.com/KrzysztofBojarczuk?tab=repositories)
 <h3>Contact Me:</h3>
  <h3>Email:
  <a href="mailto:krzysztofbojarczuk@wp.pl">krzysztofbojarczuk@wp.pl</a>
