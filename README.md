@@ -7,7 +7,7 @@
  </a>
 </p>
 
-My small projects with Asp.net core and Angular:
+My small projects with Asp.net core and Angular/React:
 
  [Enterprise Management System](https://github.com/KrzysztofBojarczuk/EMS)  Clean Architecture + CQRS + Asp.net Webapi + ASP.NET Identity + JWT Token + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React)
 
