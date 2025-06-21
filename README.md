@@ -13,8 +13,8 @@
   <li>
     <strong>Main Project:</strong><br>
     <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
-    Clean Architecture • CQRS • ASP.NET Web API • ASP.NET Identity • JWT Authentication • React • PrimeReact • PrimeFlex<br>
-    <em>Includes full authentication/authorization – after login, each user has access only to their resources (Beginner-level React)</em>
+    Clean Architecture • CQRS • ASP.NET Web API • ASP.NET Identity • JWT Authentication • React • PrimeReact • PrimeFlex
+    Includes full authentication/authorization – after login, each user has access only to their resources (Beginner-level React)
   </li>
   <br>
   <li>
