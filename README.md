@@ -13,24 +13,23 @@
   <li>
     <strong>Main Project:</strong><br>
     <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
-    Clean Architecture • CQRS • ASP.NET Web API • ASP.NET Identity • JWT Authentication • React • PrimeReact • PrimeFlex
-    Includes full authentication/authorization – after login, each user has access only to their resources (Beginner-level React)
+    Clean Architecture + CQRS + Asp.net Webapi + ASP.NET Identity + JWT Token + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React)
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    ASP.NET Web API • ASP.NET Identity • Angular • PrimeNG
+    ASP.NET Web API + ASP.NET Identity + Angular + PrimeNG
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
-    ASP.NET Web API • Angular • Angular Material<br>
+    ASP.NET Web API + Angular + Angular Material<br>
     <em>Basic CRUD app created for learning purposes – lacks proper login/registration logic</em>
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/Learning-cqrs">Learning CQRS with Clean Architecture</a><br>
-    ASP.NET Web API • Angular • Angular Material
+    ASP.NET Web API + Angular + Angular Material
   </li>
 </ul>
 
