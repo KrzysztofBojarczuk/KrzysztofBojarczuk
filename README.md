@@ -7,16 +7,32 @@
  </a>
 </p>
 
-My small projects with Asp.net core and Angular/React:
+<h3>My Projects (ASP.NET Core + Angular/React):</h3>
 
- Main project:
-[Enterprise Management System](https://github.com/KrzysztofBojarczuk/EMS)  Clean Architecture + CQRS + Asp.net Webapi + ASP.NET Identity + JWT Token + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React)
-
- [Moview reviews](https://github.com/KrzysztofBojarczuk/movie-reviews) Asp.net Webapi + ASP.NET Identity + Angular + Angular PRIMENG 
-
- [PCLine computer shops](https://github.com/KrzysztofBojarczuk/PCLine-computer-shops) Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of login and register)
-
- [Learning CQRS with Clean Architecture](https://github.com/KrzysztofBojarczuk/Learning-cqrs) Asp.net Webapi + Angular + Angular Material 
+<ul>
+  <li>
+    <strong>Main Project:</strong><br>
+    <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
+    Clean Architecture • CQRS • ASP.NET Web API • ASP.NET Identity • JWT Authentication • React • PrimeReact • PrimeFlex<br>
+    <em>Includes full authentication/authorization – after login, each user has access only to their resources (Beginner-level React)</em>
+  </li>
+  <br>
+  <li>
+    <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
+    ASP.NET Web API • ASP.NET Identity • Angular • PrimeNG
+  </li>
+  <br>
+  <li>
+    <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
+    ASP.NET Web API • Angular • Angular Material<br>
+    <em>Basic CRUD app created for learning purposes – lacks proper login/registration logic</em>
+  </li>
+  <br>
+  <li>
+    <a href="https://github.com/KrzysztofBojarczuk/Learning-cqrs">Learning CQRS with Clean Architecture</a><br>
+    ASP.NET Web API • Angular • Angular Material
+  </li>
+</ul>
 
 <h3>Contact Me:</h3>
  <h3>Email:
