@@ -24,7 +24,7 @@
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
     ASP.NET Web API + Angular + Angular Material<br>
-    <em>Basic CRUD app created for learning purposes – lacks proper login/registration logic</em>
+    Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of login and register)
   </li>
   <br>
   <li>
