@@ -26,10 +26,6 @@
     Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of login and register)
   </li>
   <br>
-  //<li>
-    //<a href="https://github.com/KrzysztofBojarczuk/Learning-cqrs">Learning CQRS with Clean Architecture</a><br>
-    ASP.NET Web API + Angular + Angular Material
-  //</li>
 </ul>
 
 <h3>Contact Me:</h3>
