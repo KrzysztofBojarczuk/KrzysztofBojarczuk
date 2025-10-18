@@ -17,13 +17,13 @@
   </li>
   <br>
   <li>
-    <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    Asp.net Webapi + Asp.net Identity + Angular + PrimeNG (project to learning PrimeNG no proper implementation of authorization/authentication on client-side)
+    <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
+    Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of authorization/authentication)
   </li>
   <br>
   <li>
-    <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
-    Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of authorization/authentication)
+    <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
+    Asp.net Webapi + Asp.net Identity + Angular + PrimeNG (project to learning PrimeNG)
   </li>
   <br>
 </ul>
