@@ -18,7 +18,7 @@
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    ASP.NET Web API + ASP.NET Identity + Angular + PrimeNG (project to learning PrimeNG no proper implementation of authorization/authentication on client-side)
+    Asp.net Webapi + ASP.NET Identity + Angular + PrimeNG (project to learning PrimeNG no proper implementation of authorization/authentication on client-side)
   </li>
   <br>
   <li>
