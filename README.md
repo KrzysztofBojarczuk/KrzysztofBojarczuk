@@ -16,15 +16,15 @@
     Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React). 
   </li>
   <br>
-    Learning Projects from the past:
+    Learning Projects from the past. Typical CRUD with Repository Design Pattern to learning:
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
-    Repository pattern + Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of authorization/authentication)
+    Asp.net Webapi + Angular + Angular Material (no proper implementation of authorization/authentication)
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    Repository pattern + Asp.net Webapi + Asp.net Identity + Angular + PrimeNG (project to learning PrimeNG no proper implementation of authorization/authentication)
+    Asp.net Webapi + Asp.net Identity + Angular + PrimeNG (project to learning PrimeNG no proper implementation of authorization/authentication)
   </li>
   <br>
 </ul>
