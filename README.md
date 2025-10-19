@@ -19,12 +19,12 @@
     Learning Projects from the past. Typical CRUD with Repository Design Pattern:
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
-    Asp.net Webapi + Angular + Angular Material (no proper implementation of authorization/authentication)
+    Asp.net Webapi + Entity Framework + Angular + Angular Material (no proper implementation of authorization/authentication)
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    Asp.net Webapi + Asp.net Identity + Angular + PrimeNG (project for learning PrimeNG no proper implementation of authorization/authentication)
+    Asp.net Webapi + Entity Framework + Asp.net Identity + Angular + PrimeNG (project for learning PrimeNG no proper implementation of authorization/authentication)
   </li>
   <br>
 </ul>
