@@ -16,6 +16,7 @@
     Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React)
   </li>
   <br>
+    Learning Projects from the past:
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
     Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of authorization/authentication)
