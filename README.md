@@ -10,13 +10,13 @@
 <h3>My Projects (ASP.NET Core + Angular/React):</h3>
 
 <ul>
-  <li>
     <strong>Main Project:</strong><br>
+  <li>
     <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
     Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React)
   </li>
   <br>
-    ## 💻 Learning Projectsfrom the past:
+    Learning Projects from the past:
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
     Asp.net Webapi + Angular + Angular Material (typical CRUD to learning no proper implementation of authorization/authentication)
