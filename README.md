@@ -13,18 +13,18 @@
     <strong>Main Project:</strong><br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
-    Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + Entity Framework + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login, the user has access to his resources - beginner React). 
+    Clean Architecture + CQRS + Asp.net Web API + Asp.net Identity + JWT Token + Entity Framework + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login, the user has access to his resources - beginner React). 
   </li>
   <br>
     Learning Projects from the past. Typical CRUD with Repository Design Pattern:
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/PCLine-computer-shops">PCLine – Computer Shops</a><br>
-    Asp.net Webapi + Entity Framework + Angular + Angular Material (no proper implementation of authorization/authentication)
+    Asp.net Web API + Entity Framework + Angular + Angular Material (no proper implementation of authorization/authentication)
   </li>
   <br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/movie-reviews">Movie Reviews</a><br>
-    Asp.net Webapi + Entity Framework + Asp.net Identity + Angular + PrimeNG (project for learning PrimeNG no proper implementation of authorization/authentication)
+    Asp.net Web API + Entity Framework + Asp.net Identity + Angular + PrimeNG (project for learning PrimeNG no proper implementation of authorization/authentication)
   </li>
   <br>
 </ul>
