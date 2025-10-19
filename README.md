@@ -1,4 +1,4 @@
-<h3>I'm Christopher/Krzysztof Bojarczuk - Junior .NET and Angular developer. I'm interested in development and building web application. Looking for an job - remote.</h3>
+<h3>I'm Christopher/Krzysztof Bojarczuk - Junior .NET and Angular developer. I'm interested in development and building web application. Looking for a job - remote.</h3>
 
 <h3> My tech stack: </h1>
 <p align="left">
