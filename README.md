@@ -1,4 +1,4 @@
-<h3>I'm Christopher/Krzysztof Bojarczuk - Junior .NET and Angular developer. I'm interested in development and budling web application. Looking for an job - remote.</h3>
+<h3>I'm Christopher/Krzysztof Bojarczuk - Junior .NET and Angular developer. I'm interested in development and building web application. Looking for an job - remote.</h3>
 
 <h3> My tech stack: </h1>
 <p align="left">
@@ -13,7 +13,7 @@
     <strong>Main Project:</strong><br>
   <li>
     <a href="https://github.com/KrzysztofBojarczuk/EMS">Enterprise Management System</a><br>
-    Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + Entity Framework + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login user has acces to his resources - beginner React). 
+    Clean Architecture + CQRS + Asp.net Webapi + Asp.net Identity + JWT Token + Entity Framework + MSTest + Moq + React + Prime React + Prime Flex (proper authorization/authentication after login, the user has access to his resources - beginner React). 
   </li>
   <br>
     Learning Projects from the past. Typical CRUD with Repository Design Pattern:
